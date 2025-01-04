@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#hsd1{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height:40px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    padding:10px;
+}
+nav{
+    background-color: grey;
+    height:30px;
+    padding-top:5px;
+}
+a:hover{
+    text-decoration: underline rgb(203, 122, 122);
+}
+#hsd2{
+    text-align: center;
+}
+#hsd3{
+    background-image: url(./images/c8d653_9e6113dfa17b410aa348ed408f6b2809~mv2.webp);
+    height: 620px;
+    width: 100%;
+}
+#imcd{
+    text-align: right;
+    padding-right: 80px;
+    
+}
+#hh3{
+    text-align: center;
+    font-size:100px;
+    display: inline-block;

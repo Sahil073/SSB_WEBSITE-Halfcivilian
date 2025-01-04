@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:#72B01D;
+}
+.blue{
+    background-color: #3F7D20;
+    /* border: 5px solid goldenrod; */
+    height:10vh;
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+
+}
+nav{
+    padding-top: 20px;
+    text-align: center;
+}
+#he1{
+    text-align: center;
+    font-size: 50px;
+}
+#images {
+    display: flex;
+    justify-content: space-around; /* Adjusts spacing between images */
+    align-items: center; /* Aligns images vertically to the center */
+}
+
+.imglo {
+    margin: 10px; /* Adds some spacing around each image */
+    max-width: 250px; /* Sets a maximum width for each image */
+    height: 200px; /* Ensures the image maintains its aspect ratio */
+}
+.mansa{
+    border: 2px solid black;
+    height: 20vh;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
+#ld{
+    text-align: center;
+    color: azure;
+    height: 4vh;
+    padding-top: 5px;
+    font-size: larger;
+}
+main{
+    width: 100%;
+    /* height:80vh; */
+}
+footer{
+    height: 40vh;
+    background-color:#0D0A0B ;
+}
